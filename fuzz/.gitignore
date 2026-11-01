@@ -1,0 +1,6 @@
+artifacts
+corpus
+coverage
+Crash*
+oom*
+timeout*
